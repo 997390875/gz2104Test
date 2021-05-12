@@ -5,4 +5,5 @@ public interface UserDao {
 	
 	//小乙提交了代码
 	void XiaoYi();
+	
 }
