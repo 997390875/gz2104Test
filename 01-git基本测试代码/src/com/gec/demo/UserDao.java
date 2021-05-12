@@ -6,4 +6,7 @@ public interface UserDao {
 	//小乙提交了代码
 	void XiaoYi();
 	
+	//我在分支提交了代码
+	void fenzhi();
+	
 }
